@@ -1,4 +1,10 @@
 # Project Outline
+## Assignment Description
+[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+
+## Submission Instructions
+
+### Overview
 At the end of Section 2 I made a simple logging app that allows users to make a list of
 items in a users record collection. I decided to make this project at the beginning of the course when, 
 during a lecture, Olivia posited "If 'you' could be summed up in a website or app, which one would it be?" and 
@@ -10,14 +16,6 @@ understanding of that topic creating a mock selling/logging app. It will allow u
 and purchases, to create, edit and remove sales/collection listings, and to be able to review and 
 edit purchasing information. This application will be beneficial for anyone who wants to keep track of and/or sell their 
 record collections.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
-### Overview
-Include overview here
 ### Features
 
 -create a user profile and receive personalized feedback based on what type of profile the user has.
